@@ -444,6 +444,10 @@ section
 	padding-right: 26px;
 	margin-top: 64px;
 }
+.sidebar_logo img
+{
+	width : 80%;
+}
 .sidebar_logo a
 {
 	display: block;
@@ -691,6 +695,9 @@ section
 .header_logo
 {
 	margin-left: 50px;
+}
+.header_logo img{
+	width: 40%;
 }
 .header_logo a
 {
